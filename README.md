@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi~ I'm Mochi 🍡</h1>
+<h1 align="center">Hi~ I'm Jingya 🍡</h1>
 <p align="center">🎨 爱画画 | 🧪 喜欢生物 | 💻 学前端 | 🔧 自学电路焊接</p>
 
 ---
