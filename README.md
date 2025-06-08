@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome to Jingya's Wonderland 🍡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there~+I'm+Mochi!;生信少女预备队员;未来的硬件&前端探索者♥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Hi+there~+I'm+Jingya!;生信少女预备队员;未来的硬件和前端探索者" alt="Typing SVG" />
 </p>
 
 ---
