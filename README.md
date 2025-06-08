@@ -47,6 +47,8 @@
 ## 📫 联系我
 
 - GitHub: [cleo221](https://github.com/cleo211)
+- QQ:1587737072
+- Email:cleo424242@gmail.com
 - 可以私信我交流学习呀~
 
 ---
