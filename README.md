@@ -59,16 +59,29 @@
 
 ---
 
-## 📫 Find me here~
+## 📫 Find me here~ 🌸
 
-<p>
-  <a href="https://github.com/211">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+
+  <!-- GitHub -->
+  <a href="https://github.com/Cleo211">
+    <img src="https://img.shields.io/badge/GitHub-Cleo211-181717?style=flat&logo=github&logoColor=white&labelColor=ffb6c1" />
   </a>
-     email:cleo424242@gmail.com
-     qq:1587737072
-     bilibili:https://m.bilibili.com/space/443638358
-</p>
+
+  <!-- Gmail -->
+  <a href="mailto:cleo424242@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-cleo424242@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=ffc0cb" />
+  </a>
+
+  <!-- Bilibili -->
+  <a href="https://m.bilibili.com/space/443638358">
+    <img src="https://img.shields.io/badge/Bilibili-小可爱在线-badge?style=flat&logo=bilibili&logoColor=white&labelColor=87ceeb" />
+  </a>
+
+  <!-- QQ -->
+  <a href="mailto:1587737072@qq.com">
+    <img src="https://img.shields.io/badge/QQ-1587737072@qq.com-12B7F5?style=flat&logo=tencentqq&logoColor=white&labelColor=e0ffff" />
+  </a
 
 ---
 
