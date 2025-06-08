@@ -1,70 +1,75 @@
-## Hi there 👋
-<h1 align="center">Hi~ I'm Jingya 🍡</h1>
-<p align="center">🎨 爱画画 | 🧪 喜欢生物 | 💻 学前端 | 🔧 自学电路焊接</p>
-
----
-
-## 🧍 关于我
-
-- 🎓 高中在读，未来想学 **生物信息 / IT / 硬件开发**
-- 💡 兴趣超多：画插画、做网页、焊电路板、玩 galgame ✨
-- 🔜 高考后开始系统学前端，目标做出属于自己的博客！
-- 🌏 想去日本发展 & 远程工作中成为自由开发者
-
----
-
-## 🌸 技能 & 正在学习中
-
-<!-- 用图标 + 名字表示正在学的东西，可慢慢加 -->
-<p>
-  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<h1 align="center">✨ Welcome to Jingya's Wonderland 🍡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there~+I'm+Mochi!;生信少女预备队员.;未来的硬件&前端探索者♥" alt="Typing SVG" />
 </p>
 
-> ✅ 计划学：JavaScript, Git, React, PCB设计...
+---
+
+## 🌸 About Me
+
+- 🏫 高中生，目前在为高考奋斗中 📚
+- 🎯 高考后目标：**学习前端开发 + 电路焊接 + PCB 设计**
+- 💖 兴趣广泛：画插画 / 玩 galgame / 整 Notion / 写设定文
+- 🧠 学过 C++，了解广搜、动规，现在准备转向前端 & 生信
+- 🛫 梦想是去日本读书 & 做自由远程开发者！
 
 ---
 
-## ✍️ 最近的小目标
+## 💼 My Toolbox
 
-- [x] 学会用 GitHub ✨  
-- [ ] 完成第一个网页
-- [ ] 自己做一个博客系统！
-- [ ] 焊一个能动的电路板~
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+</p>
 
----
-
-## 🪄 其他兴趣
-
-- 🎮 喜欢玩 galgame & 音游
-- ✒️ 偶尔写点文，喜欢自创设定
-- 📖 记录成长日志 + 复习笔记（准备高考中💪）
+> 🧩 正在学习中：JavaScript, Git, React, PCB设计
 
 ---
 
-## 📫 联系我
+## 🎯 Goals
 
-- GitHub: [cleo221](https://github.com/cleo211)
-- QQ:1587737072
-- Email:cleo424242@gmail.com
-- 可以私信我交流学习呀~
+- ✅ 学会使用 GitHub 和 Markdown
+- ⏳ 学会完整写一个网页项目
+- ⏳ 自己画一个个人博客的 UI 并实现
+- ⏳ 学习基础焊接技巧、元器件识别
+- ⏳ 暑假去找朋友顺便带一套硬件回来（？）
 
 ---
 
-<p align="center">感谢来看我的 Profile 🫶 祝我们都成为喜欢的大人！</p>
-<!--
-**Cleo211/Cleo211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎵 喜欢的东西
 
-Here are some ideas to get you started:
+- ✒️ 写轻小说 & 自创设定
+- 🎨 画插图（以后想在 GitHub 放作品）
+- 🎮 玩 galgame / 音游（但高考前要克制！）
+- 📱 整理 Notion 做复习计划 & 成长日志
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ Projects
+
+🚧 正在建设中的 Profile...  
+📝 以后准备发布的内容：
+
+- 📚 高考笔记 & 自学资料
+- 🌐 前端练习项目
+- ⚙️ 简单硬件 DIY 过程记录
+
+---
+
+## 📫 Find me here~
+
+<p>
+  <a href="https://github.com/211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+     email:cleo424242@gmail.com
+     qq:1587737072
+     bilibili:https://m.bilibili.com/space/443638358
+</p>
+
+---
+
+<p align="center"><i>✨ 愿你我都成为温柔又强大的人 ✨</i></p>
