@@ -75,7 +75,7 @@
 
   <!-- Bilibili -->
   <a href="https://m.bilibili.com/space/443638358">
-    <img src="https://img.shields.io/badge/Bilibili-小可爱在线-badge?style=flat&logo=bilibili&logoColor=white&labelColor=87ceeb" />
+    <img src="https://img.shields.io/badge/Bilibili-灬七爷丶-badge?style=flat&logo=bilibili&logoColor=white&labelColor=87ceeb" />
   </a>
 
   <!-- QQ -->
