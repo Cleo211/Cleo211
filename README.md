@@ -2,7 +2,6 @@
 
 <p align="center">
 Hi there~ I'm Jingya!<br>
-生信少女预备队员<br>
 未来的硬件和前端探索者 ♥
 </p>
 
