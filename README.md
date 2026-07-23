@@ -77,7 +77,7 @@ Hi there~ I'm Jingya!<br>
 
   <!-- Bilibili -->
   <a href="https://m.bilibili.com/space/443638358">
-    <img src="https://img.shields.io/badge/BilibiliAda钦-badge?style=flat&logo=bilibili&logoColor=white&labelColor=87ceeb" />
+    <img src="https://img.shields.io/badge/Bilibili-Ada钦-badge?style=flat&logo=bilibili&logoColor=white&labelColor=87ceeb" />
   </a>
 
   <!-- QQ -->
